@@ -80,4 +80,4 @@ Este repositorio documenta el flujo bioinformático utilizado para analizar la d
 
 ---
 
-¿Quieres que te ayude a crear los scripts o los archivos de configuración para MrBayes, RAxML o PartitionFinder?
+
