@@ -104,8 +104,3 @@ remotes::install_github("marlonecobos/kuenm")
 
 **Juan Pablo Ramírez Mendoza, chiara Ordoñez,Osvaldo**  
 
-
-
-👉 Con este README tu repositorio se ve mucho más **profesional, reproducible y atractivo**.  
-
-¿Quieres que te prepare también una **versión en inglés** para que tu repo tenga mayor visibilidad internacional?
