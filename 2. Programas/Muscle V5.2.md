@@ -5,7 +5,7 @@ Nos dirigimos al directorio en donde estabamos trabajando en R
 
 ```bash
 
-cd * #en Ubuntu los guiones deben estar de la siguiente forma: /
+cd /mnt/*
 ```
 
 
