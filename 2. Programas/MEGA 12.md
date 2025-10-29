@@ -1,7 +1,7 @@
 
 # MEGA (Molecular Evolutionary Genetics Analysis)
 
-![alt text](imagenes/M_logo.JPG)
+![Terminal con mkdir](../Imagenes/M_logo.png)
 
 
 ## Paso 1: ENLACE PARA DESCARGAR MEGA
