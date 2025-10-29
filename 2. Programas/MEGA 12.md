@@ -15,7 +15,11 @@ Seleccionas la versión y sistema operativo indicado.
 
 En la barra superior, se da clic en `File` > `Open a File/Session...`
 
+
+
 ![Terminal con mkdir](Imagenes/M_1.png)
+
+Se selecciona el archivo `alineamiento_muscle_militaris.fasta` > `Abrir` > `Align`
 
 
 
