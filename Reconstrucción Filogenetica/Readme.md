@@ -47,6 +47,7 @@ Para hacer nuestro análisis necesitamos un archivo NEXUS (.nex) con nuestras se
 En nuestro artículo de referencia proporcionan 67 secuencias en GenBank, con los IDs del rango KT957209 a KT957275 y unas secuencias de referencia de Cyt-b de otras especies del género Ara (A. macao, A. chloropterus, A. glaucogularis, A. ararauna y A. severus) junto con Primolius auricollis, que eran accesibles en GenBank.
 
 Si descargamos desde GenBank, se bajan primeramente en formato .fasta, se alinean en MEGA o un programa similar y al guardarlo es que se hace la conversion a .nex
+
 ---
 ## Ejecutar análisis
 
