@@ -28,8 +28,7 @@ La que aparece en la ventana es similar a la siguiente imagen.
 
 ![Terminal con mkdir](Imagenes/M_3.png)
 
-Para borrar las zonas con gaps, colocamos el cursor en la parte superior de las secuencias, damos clic y seleccionamos las zonas a borrar, estas columnas se tornarán de color amarillo, posteriormente se da `Supr`, hasta que queden las secuencias sin gaps 
-(-), esto porque en el siguiente programa a emplear no reconocería el archivo.
+Para borrar las zonas con gaps, colocamos el cursor en la parte superior de las secuencias, damos clic y seleccionamos las zonas a borrar, estas columnas se tornarán de color amarillo, posteriormente se da `Supr`, hasta quedarnos con 300 pb.
 
 
 
