@@ -4,7 +4,8 @@ Para explorar las relaciones evolutivas dentro del género Ara, ampliamos nuestr
 del uso de múltiples grupos externos en las inferencias filogenéticas.
 
 ---
-###Descargar MrBayes
+
+### Descargar MrBayes
 
 Para comenzar descargaremos MrBayes, puedes hacerlo desde el siguiente archivo en GitHub que contiene las instrucciones oficiales para compilar e instalar MrBayes desde el código fuente: https://github.com/NBISweden/MrBayes/blob/develop/INSTALL.
 
@@ -40,7 +41,7 @@ MrBayes >
 ```
 
 ---
-##Secuencias
+### Secuencias
 
 Para hacer nuestro análisis necesitamos un archivo NEXUS (.nex) con nuestras seciencias alineadas incluyendo al grupo externo.
 
