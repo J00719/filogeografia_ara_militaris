@@ -37,6 +37,7 @@ make
 MrBayes v3.2.x
 Type 'help' for available commands.
 MrBayes >
+```
 
 ---
 ##Secuencias
@@ -68,6 +69,6 @@ Cuando termine, MrBayes generará varios archivos:
 *.p → parámetros del MCMC
 *.t → árboles muestreados
 *.con.tre → árbol de consenso
-
+```
 
 
