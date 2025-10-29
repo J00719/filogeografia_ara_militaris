@@ -1,6 +1,6 @@
 # ALINEAMIENTO DE SECUENCIAS DE A. militaris EN UBUNTU CON MUSCLE V5.2
 
-## PASO 1 Navegar al directorio de trabajo
+## PASO 1. Navegar al directorio de trabajo
 Nos dirigimos al directorio en donde estabamos trabajando en R 
 
 ```bash
@@ -9,7 +9,7 @@ cd * #en Ubuntu los guiones deben estar de la siguiente forma: /
 ```
 
 
-## Paso 2: Verificar si MUSCLE está instalado
+## Paso 2. Verificar si MUSCLE está instalado
 ```bash
 muscle
 ``` 
@@ -22,14 +22,14 @@ Built Nov  5 2022 18:45:38
 (C) Copyright 2004-2021 Robert C. Edgar.
 https://drive5.com
 ``` 
-## Paso 3: Instalar MUSCLE (si no está instalado)
+## Paso 3. Instalar MUSCLE (si no está instalado)
 
 ```bash
 sudo apt update
 sudo apt install muscle
 ```
 
-## Paso 4: Confirmar instalación
+## Paso 4. Confirmar instalación
 
 ```bash
 muscle -versión
@@ -40,7 +40,7 @@ muscle 5.2.linux64 [-]
 Built Nov  5 2022 18:45:38
 ```
 
-## Paso 5: Crear el script de alineamiento
+## Paso 5. Crear el script de alineamiento
 
 ```bash
 
@@ -69,13 +69,13 @@ Para salir del editor: presiona `Ctrl + X`, luego `Y` para guardar, y `Enter` pa
 
 
 
-## Paso 6: Dar permisos de ejecución
+## Paso 6. Dar permisos de ejecución
 
 ```bash
 chmod +x alinear_muscle.sh
 ```
 
-## Paso 7: Ejecutar el script
+## Paso 7. Ejecutar el script
 
 ```bash
 ./alinear_muscle_militaris.sh
