@@ -4,6 +4,8 @@ Para explorar las relaciones evolutivas dentro del género Ara, ampliamos nuestr
 del uso de múltiples grupos externos en las inferencias filogenéticas.
 
 ---
+##Descargar MrBayes
+
 Para comenzar descargaremos MrBayes, puedes hacerlo desde el siguiente archivo en GitHub que contiene las instrucciones oficiales para compilar e instalar MrBayes desde el código fuente: https://github.com/NBISweden/MrBayes/blob/develop/INSTALL.
 
 A continuación se presentan las lineas de comando
@@ -28,7 +30,7 @@ cd MrBayes
 ./configure
 make
 
-#3 ejecutar MrBayes
+#3 corroborar descarga
 ./src/mb
 
 # ya debe aparecer el prompt de MrBayes 
@@ -37,3 +39,35 @@ Type 'help' for available commands.
 MrBayes >
 
 ---
+##Secuencias
+
+Para hacer nuestro análisis necesitamos un archivo NEXUS (.nex) con nuestras seciencias alineadas incluyendo al grupo externo.
+
+En nuestro artículo de referencia proporcionan 67 secuencias en GenBank, con los IDs del rango KT957209 a KT957275 y unas secuencias de referencia de Cyt-b de otras especies del género Ara (A. macao, A. chloropterus, A. glaucogularis, A. ararauna y A. severus) junto con Primolius auricollis, que eran accesibles en GenBank.
+
+Si descargamos desde GenBank, se bajan primeramente en formato .fasta, se alinean en MEGA o un programa similar y al guardarlo es que se hace la conversion a .nex
+---
+## Ejecutar análisis
+
+Antes de utilizar MrBayes debemos ubicar nuesrto archivo .nex en la misma carpeta que el programa, posteriormente volvemos a ingresar a MrBayes 
+
+```python
+#en caso de seguir dentro del progrma utilizamos el comando quit para salir
+
+#mover nuestro archivo
+cp "/Users/chiara/Descargas/Secuencias Ara militaris/mili-macao.nexus" /Users/chiara/MrBayes/
+
+#para volver a entrar a MrBayes
+./src/mb
+
+#ejecutar
+execute mrbayes//Users/chiara/Descargas/Secuencias\ Ara\ militaris/mili-macao.nexus
+
+#Mientras eperamos a que termine el análisis se puede ver mensajes como Running MCMC... y el progreso de generaciones.
+Cuando termine, MrBayes generará varios archivos:
+*.p → parámetros del MCMC
+*.t → árboles muestreados
+*.con.tre → árbol de consenso
+
+
+
