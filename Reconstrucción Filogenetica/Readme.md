@@ -71,6 +71,13 @@ Cuando termine, MrBayes generará varios archivos:
 *.p → parámetros del MCMC
 *.t → árboles muestreados
 *.con.tre → árbol de consenso
+
+# Cuando el análisis termine, vuelves a salir del programa
+
+#Visualizar el árbol
+
+#Por ultimo vamos a utilizar el comando .con.tre para abirlo en FigTree para visualizar y exportar el árbol  como imagen.
+
 ```
 
 
