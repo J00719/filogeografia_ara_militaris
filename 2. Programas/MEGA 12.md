@@ -11,7 +11,13 @@ Seleccionas la versión y sistema operativo indicado.
 
 ![Terminal con mkdir](Imagenes/M_0.png)
 
-## PASO 2. ABRIR MEGA
+## PASO 2. ABRIR ARCHIVO 
+
+En la barra superior, se da clic en `File` > `Open a File/Session...`
+
+![Terminal con mkdir](Imagenes/M_1.png)
+
+
 
 
 
