@@ -1,0 +1,19 @@
+### Índices de diversidad de ADN mitocondrial para poblaciones de *A. militaris*, incluidas las diversidades de nucleótidos (π) y haplotipos (h), así como los índices de prueba de neutralidad D de Tajima y Fs de Fu.
+
+| Subespecie | Abreviaturas de poblaciones | Localidad | N | P | Haplotipos de Cyt-b | π | h | D | Fs |
+|-------------|------------------------------|------------|---|---|---------------------|---|---|---|---|
+| **A. m. mexicanus** | México – Sierra Madre Occidental / Sierra Madre del Sur 1 | SMOc1 | LS | 1 | 1 | Hap5 | — | — | — | — |
+| | México – Sierra Madre Occidental / Sierra Madre del Sur 2 | SMOc2 | C | 16 | 8 | Hap15, Hap23, Hap24, Hap25, Hap26, Hap27, Hap28, Hap29 | 0.0022 | 0.7000 | −1.6238 | −4.5029 |
+| | México – Sierra Madre Occidental / Sierra Madre del Sur 3 | SMOc3 | Q, MA | 6 | 5 | Hap12, Hap13, Hap16, Hap17, Hap23 | 0.0017 | 0.9333 | −1.2331 | 5.8783 |
+| | México – Sierra Madre Occidental / Sierra Madre del Sur 4 | SMOc4 | LM, LP, VC | 13 | 9 | Hap6, Hap7, Hap9, Hap17, Hap18, Hap19, Hap20, Hap21, Hap22 | 0.0018 | 0.9231 | 0.6005 | −1.6903 |
+| | México – Sierra Madre Occidental / Sierra Madre del Sur 5 | SMOc5 | BB, ET, BO | 8 | 3 | Hap8, Hap17, Hap23 | 0.0011 | 0.7143 | 0.3335 | 22.7426 |
+| | México – Sierra Madre Occidental / Sierra Madre del Sur 6 | SMOc6 | C | 4 | 4 | Hap10, Hap11, Hap14, Hap23 | 0.0040 | 0.9736 | 0.6501 | −1.6221 |
+| | México – Sierra Madre Oriental 1 | SMOr1 | SC | 2 | 2 | Hap1, Hap3 | 0.0051 | 0.9843 | 0.0000 | 1.0986 |
+| | México – Sierra Madre Oriental 2 | SMOr2 | EC | 3 | 3 | Hap2, Hap3, Hap4 | 0.0034 | 0.9801 | 0.0000 | −0.6933 |
+| **Subespecies totales** | — | — | 53 | 35 | 29 | 0.0024 ± 0.0002 | 0.7760 ± 0.0417 | — | — |
+| **A. m. militaris** | Colombia – 1 | C1 | SM | 2 | 2 | Hap39, Hap40 | 0.0045 | 0.9765 | 0.0000 | 1.3862 |
+| | Colombia – 2 * | C2 | B | 3 | 3 | Hap30, Hap31, Hap38 | 0.0284 | 0.9856 | 0.0000 | 0.7032 |
+| | Perú – 1 | P1 | L | 4 | 4 | Hap32, Hap37, Hap40, Hap41 | 0.0147 | 0.9887 | −0.3144 | −0.5683 |
+| **Subespecies totales** | — | — | 9 | 9 | 8 | 0.0158 ± 0.0084 | 0.9836 ± 0.0032 | — | — |
+| **A. m. bolivianus** | Bolivia – 1 | B1 | S | 5 | 4 | Hap33, Hap34, Hap35, Hap36 | 0.0097 | 0.9000 | −0.8429 | 4.7699 |
+| **En general** | — | — | 67 | 48 | 41 | 0.0063 ± 0.0007 | 0.8382 ± 0.0257 | — | — |
