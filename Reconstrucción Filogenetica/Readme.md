@@ -50,7 +50,7 @@ En nuestro artículo de referencia proporcionan 67 secuencias en GenBank, con lo
 Si descargamos desde GenBank, se bajan primeramente en formato .fasta, se alinean en MEGA o un programa similar y al guardarlo es que se hace la conversion a .nex
 
 ---
-## Ejecutar análisis
+### Ejecutar análisis
 
 Antes de utilizar MrBayes debemos ubicar nuesrto archivo .nex en la misma carpeta que el programa, posteriormente volvemos a ingresar a MrBayes 
 
