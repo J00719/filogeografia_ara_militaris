@@ -80,4 +80,10 @@ Cuando termine, MrBayes generará varios archivos:
 
 ```
 
+## Árbol filogenético
 
+Este es el árbol filogenético generado a partir de las secuencias Cyt-b:
+
+![Árbol filogenético](Captura de Pantalla 2025-10-29 a la(s) 18.01.31.png)
+
+<img width="465" height="706" alt="Captura de Pantalla 2025-10-29 a la(s) 18 01 31" src="https://github.com/user-attachments/assets/8cde870b-e5b8-41eb-aff8-85330eb9b272" />
